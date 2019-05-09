@@ -1,6 +1,6 @@
 # TabBarIOS
 
-The TabBarIOS has been removed from React Native v0.59. We still use it in one of our projects, so I'll malke sure it still works. Feel free to contribute.
+The TabBarIOS has been [removed](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#ios-specific-10) from React Native v0.59. We still use it in one of our projects, so I'll malke sure it still works. Feel free to contribute.
 
 ## Props
 
