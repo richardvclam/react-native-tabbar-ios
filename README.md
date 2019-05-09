@@ -1,5 +1,7 @@
 # TabBarIOS
 
+The TabBarIOS has been removed from React Native v0.59. We still use it in one of our projects, so I'll malke sure it still works. Feel free to contribute.
+
 ## Props
 
 * barStyle
