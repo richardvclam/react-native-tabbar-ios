@@ -1,6 +1,6 @@
 # TabBarIOS
 
-⚠️ Work in progress and not yet a fully npm library.
+⚠️ Work in progress and not yet a working npm library ⚠️
 
 The TabBarIOS has been [removed](https://github.com/react-native-community/releases/blob/master/CHANGELOG.md#ios-specific-10) from React Native v0.59. We still use it in one of our projects, so I'll malke sure it still works. Feel free to contribute.
 
