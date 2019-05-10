@@ -7,7 +7,6 @@
 
 #import "RCTTabBarItemManager.h"
 
-//#import "RCTConvert.h"
 #import "RCTTabBarItem.h"
 
 @implementation RCTTabBarItemManager

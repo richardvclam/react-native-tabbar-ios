@@ -7,10 +7,9 @@
 
 #import "RCTTabBarManager.h"
 
-//#import "RCTBridge.h"
 #import "RCTTabBar.h"
-#import "RCTUIManager.h"
-#import "RCTUIManagerObserverCoordinator.h"
+#import <React/RCTUIManager.h>
+#import <React/RCTUIManagerObserverCoordinator.h>
 
 @implementation RCTConvert (UITabBar)
 

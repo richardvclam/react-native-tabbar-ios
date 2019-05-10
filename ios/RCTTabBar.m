@@ -7,13 +7,11 @@
 
 #import "RCTTabBar.h"
 
-#import "RCTEventDispatcher.h"
-//#import "RCTLog.h"
+#import <React/RCTEventDispatcher.h>
 #import "RCTTabBarItem.h"
-#import "RCTUtils.h"
-//#import "RCTView.h"
-#import "RCTWrapperViewController.h"
-#import "UIView+React.h"
+#import <React/RCTUtils.h>
+#import <React/RCTWrapperViewController.h>
+#import <React/UIView+React.h>
 
 @interface RCTTabBar() <UITabBarControllerDelegate>
 

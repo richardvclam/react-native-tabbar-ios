@@ -7,9 +7,7 @@
 
 #import "RCTTabBarItem.h"
 
-//#import "RCTConvert.h"
-//#import "RCTLog.h"
-#import "UIView+React.h"
+#import <React/UIView+React.h>
 
 @implementation RCTConvert (UITabBarSystemItem)
 
