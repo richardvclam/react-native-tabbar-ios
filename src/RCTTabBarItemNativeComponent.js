@@ -16,7 +16,7 @@ import type { ImageSource } from "ImageSource";
 
 ("use strict");
 
-const { requireNativeComponent } = requrie("react-native");
+const { requireNativeComponent } = require("react-native");
 
 type TabBarItemEvent = SyntheticEvent<null>;
 

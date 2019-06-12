@@ -15,7 +15,7 @@ import type { NativeComponent } from "ReactNative";
 
 ("use strict");
 
-const { requireNativeComponent } = requrie("react-native");
+const { requireNativeComponent } = require("react-native");
 
 type NativeProps = $ReadOnly<{|
   ...ViewProps,
