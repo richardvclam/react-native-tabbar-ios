@@ -13,8 +13,8 @@ import type { ColorValue } from 'StyleSheetTypes';
 
 ('use strict');
 
-const React = require('React');
-const StyleSheet = require('StyleSheet');
+const React = require('react');
+const { StyleSheet } = require('react-native');
 const TabBarItemIOS = require('./TabBarItemIOS');
 
 const RCTTabBar = require('./RCTTabBarNativeComponent');

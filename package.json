@@ -5,10 +5,12 @@
   "license": "MIT",
   "main": "index.js",
   "author": "Alain Hufkens <alain@hufkens.net> (https://github.com/hufkens)",
-  "contributors": [      
-  ],
+  "contributors": [],
   "repository": {
-      "type": "git",
-      "url": "git@github.com:hufkens/react-native-tabbar-ios.git"
+    "type": "git",
+    "url": "git@github.com:hufkens/react-native-tabbar-ios.git"
+  },
+  "dependencies": {
+    "react-static-container": "^1.0.2"
   }
 }

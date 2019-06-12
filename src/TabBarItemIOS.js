@@ -15,10 +15,9 @@ import type { ImageSource } from 'ImageSource';
 
 ('use strict');
 
-const React = require('React');
-const StaticContainer = require('StaticContainer.react');
-const StyleSheet = require('StyleSheet');
-const View = require('View');
+const React = require('react');
+const { StyleSheet, View } = require('react-native');
+const StaticContainer = require('react-static-container');
 const RCTTabBarItemNativeComponent = require('./RCTTabBarItemNativeComponent');
 
 type Props = $ReadOnly<{|
